@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yogeshh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=yogeshh7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=yogeshh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+<br/>
 
 
 [![](https://komarev.com/ghpvc/?username=yogeshh7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yogeshh7)
