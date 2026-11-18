@@ -22,8 +22,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=yogeshh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=yogeshh7&theme=dark&hide_border=false)<br/>
 <br/>
-
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogeshh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 [![](https://komarev.com/ghpvc/?username=yogeshh7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yogeshh7)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
